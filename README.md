@@ -1,4 +1,3 @@
-# Ken's Blog
 
 Here's the 
 [old portfolio page](https://creativeken.netlify.app).
