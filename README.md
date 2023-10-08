@@ -1,5 +1,5 @@
 # What I have Been Doing.
-Schooling
+Schoolings
 
 Schooling
 
