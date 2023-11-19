@@ -30,4 +30,4 @@ Schooling
 
 #### School Courses
 
-#### Career Research ####
+#### Career Research
