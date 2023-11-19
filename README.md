@@ -1,7 +1,7 @@
 <a href="https://kenportfolio.github.io/Blog/" target="_blank">See the full blog here.</a>
 
 # TOC
-- [Career Research](#careerresearch)
+- [Career Research](#career)
 
 ## What Have I Been Doing?
 ### Learning
@@ -30,4 +30,4 @@ Schooling
 
 #### School Courses
 
-#### Career Research
+#### Career Research<a name="career">
