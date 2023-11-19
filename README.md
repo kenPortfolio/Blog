@@ -1,6 +1,3 @@
-[//]: # (<a href="https://kenportfolio.github.io/Blog/" target="_blank">See the full blog here.</a>)
-
-
 # TOC
 - [Career Research](#career)
 
